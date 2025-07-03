@@ -122,7 +122,7 @@ Hey there! 👋 I’m a Data Science Master's student at Drexel University, blen
 
 ## 🌐 Connect with Me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/ram-kishore-kv-819b1229a)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ram-kishore-kv-819b1229a)  
 - 📬 Email: rk999@drexel.edu  
 - 💻 [GitHub](https://github.com/RamKishoreKV)  
 - 📍 Philadelphia, PA | Open to relocate
