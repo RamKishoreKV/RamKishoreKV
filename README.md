@@ -118,6 +118,9 @@ Hey there! 👋 I’m a Data Science Master's student at Drexel University, blen
 
 ---
 
+> 📌 Note:  
+These projects were developed during my MS in Data Science program and were maintained locally throughout the coursework. I’m now publishing them to GitHub with improved documentation and structure for public access and professional visibility.
+
 ## 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ram-kishore-kv-819b1229a)  
