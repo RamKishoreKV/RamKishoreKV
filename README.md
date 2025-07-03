@@ -8,8 +8,7 @@ Hey there! 👋 I’m a Data Science Master's student at Drexel University, blen
 ## 🚀 About Me
 
 - 🌱 **Currently Learning**:  
-  - Domain-adaptive model design (Transformers, Vision-Language)  
-  - Azure ML (DP-100), MLOps practices  
+   
   - Generative AI and RAG systems  
 
 - 🔭 **Focused On**:  
@@ -42,7 +41,6 @@ Hey there! 👋 I’m a Data Science Master's student at Drexel University, blen
 ### ☁️ Cloud, MLOps & Tools  
 `PySpark` `Flask` `Streamlit`  
 `Google Cloud Platform (Cloud Storage, BigQuery)`  
-`Azure (DP-100 in progress)`  
 `Docker` `Git/GitHub` `Jupyter` `VS Code`
 
 ### 📈 BI & Visualization  
