@@ -62,7 +62,7 @@ Hey there! 👋 I’m a Data Science Master's student at Drexel University, blen
   YOLOv8-based wildfire object detection using real-world datasets.  
   _**Skills:** YOLOv8, Object Detection, OpenCV, Deep Learning, Transfer Learning_
 
-- 🌐 **[Wildfare](https://github.com/RamKishoreKV/Wildfare)**  
+- 🌐 **[Wildfire Watch](https://github.com/RamKishoreKV/Wildfare)**  
   Interactive UI frontend for the wildfire detection capstone project.  
   _**Skills:** TypeScript, Frontend Design, Web Interface_
 
