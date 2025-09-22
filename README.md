@@ -56,7 +56,7 @@ Hey there! 👋 I’m a Data Science Master's student at Drexel University, blen
   Retrieval-Augmented Generation pipeline powered by Elasticsearch/OpenSearch for document-grounded responses.  
   _**Skills:** RAG, Elasticsearch, Hybrid Search, LangChain, Streamlit_
 
-- 🤝 **[HR-TAgen](https://github.com/RamKishoreKV/HR-TAgen)**  
+- 🤝 **[HR-Agent](https://github.com/RamKishoreKV/HR-TAgen)**  
   Agentic AI Assistant for HR talent acquisition and hiring workflows using LangGraph and LangChain.  
   _**Skills:** LLM Agents, LangGraph, Agentic AI, Streamlit, Python_
 
