@@ -50,7 +50,15 @@ Hey there! 👋 I’m a Data Science Master's student at Drexel University, blen
 
 ## 🔥 Featured GitHub Projects
 
-### 🤖 Deep Learning & Transfer Learning Projects
+### 🤖AI, Deep Learning & Generative AI
+
+- 🔍 **[RAG-Elastic](https://github.com/RamKishoreKV/RAG-Elastic)**  
+  Retrieval-Augmented Generation pipeline powered by Elasticsearch/OpenSearch for document-grounded responses.  
+  _**Skills:** RAG, Elasticsearch, Hybrid Search, LangChain, Streamlit_
+
+- 🤝 **[HR-TAgen](https://github.com/RamKishoreKV/HR-TAgen)**  
+  Agentic AI Assistant for HR talent acquisition and hiring workflows using LangGraph and LangChain.  
+  _**Skills:** LLM Agents, LangGraph, Agentic AI, Streamlit, Python_
 
 - 🧠 **[Breast-Cancer-Detection](https://github.com/RamKishoreKV/Breast-Cancer-Detection)**  
   Vision-language classification using CLIP and transfer learning with PyTorch.  
