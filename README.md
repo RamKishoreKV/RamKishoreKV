@@ -132,7 +132,7 @@ These projects were developed during my MS in Data Science program and were main
 ## 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ram-kishore-kv-819b1229a)  
-- 📬 Email: rk999@drexel.edu  
+- 📬 Email: ramkishorekv121@gmail.com
 - 💻 [GitHub](https://github.com/RamKishoreKV)  
 - 📍 Philadelphia, PA | Open to relocate
 
